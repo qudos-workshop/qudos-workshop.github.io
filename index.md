@@ -13,7 +13,10 @@ The QUDOS workshop focuses on the problem of how to best define and integrate qu
 
 #### All Editions
 
-[QUDOS 2015](http://2015)
-[QUDOS 2016](http://2016)
-[QUDOS 2017](http://2017)
 [QUDOS 2018](http://2018)
+
+[QUDOS 2017](http://2017)
+
+[QUDOS 2016](http://2016)
+
+[QUDOS 2015](http://2015)
