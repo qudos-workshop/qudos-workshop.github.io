@@ -13,6 +13,8 @@ The QUDOS workshop focuses on the problem of how to best define and integrate qu
 
 #### All Editions
 
+[QUDOS 2020](http://2020.qudos-workshop.org)
+
 [QUDOS 2019](http://2019.qudos-workshop.org)
 
 [QUDOS 2018](http://2018.qudos-workshop.org)
@@ -22,3 +24,5 @@ The QUDOS workshop focuses on the problem of how to best define and integrate qu
 [QUDOS 2016](http://2016.qudos-workshop.org)
 
 [QUDOS 2015](http://2015.qudos-workshop.org)
+
+<a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
