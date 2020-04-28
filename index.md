@@ -26,3 +26,5 @@ The QUDOS workshop focuses on the problem of how to best define and integrate qu
 [QUDOS 2015](http://2015.qudos-workshop.org)
 
 <a class="twitter-timeline" href="https://twitter.com/qudos_workshop?ref_src=twsrc%5Etfw">Tweets by qudos_workshop</a>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
